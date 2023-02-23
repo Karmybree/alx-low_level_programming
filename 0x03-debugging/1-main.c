@@ -1,4 +1,4 @@
-[16:45, 23/02/2023] Justin Alx: #include <stdio.h>
+#include <stdio.h>
 
 /**
  * main - causes an infinite loop
