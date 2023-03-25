@@ -1,4 +1,4 @@
-i#include "variadic_functions.h"
+#include "variadic_functions.h"
 
 /**
  * print_strings - prints a variable number of strings, separated by a given
